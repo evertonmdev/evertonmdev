@@ -26,4 +26,5 @@
 
     
 <hr>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=evertonmdev&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonmdev\&rank_icon=github)
