@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá, meu nome é Everton Matheus 👋
 
-<!--
-**evertonmdev/evertonmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4> Um pouco sobre mim <h4/>
+   <ul>
+        <li> 💻 Desenvolvedor WEB/Mobile </li>
+        <li> 💙 Atualmente estudando no Instituto PROA</li>
+    </ul>
 
-Here are some ideas to get you started:
+  <h4> Onde me encontrar: <h4/>
+      <div> 
+            <a href="https://instagram.com/evertonmdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+            <a href = "mailto:matheus.enterprise.3578@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+            <a href="https://www.linkedin.com/in/evertonmdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+      </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> Tecnologias </h3>
+<div style="display: inline_block"><br>
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />        
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+
+    
+<hr>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=evertonmdev&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
