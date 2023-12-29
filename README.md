@@ -3,7 +3,6 @@
 <h4> Um pouco sobre mim <h4/>
    <ul>
         <li> 💻 Desenvolvedor WEB/Mobile </li>
-        <li> 💙 Atualmente estudando no Instituto PROA</li>
     </ul>
 
   <h4> Onde me encontrar: <h4/>
