@@ -26,9 +26,24 @@
 </div>
     
 <hr>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonmdev\&rank_icon=github)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/evertonmdev/evertonmdev/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"  srcset="https://github.com/evertonmdev/evertonmdev/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/evertonmdev/evertonmdev/blob/output/github-snake-dark.svg" />
-</picture>
+
+<div align="start" >
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=evertonmdev&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=evertonmdev&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=evertonmdev&show_icons=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/evertonmdev/evertonmdev/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"  srcset="https://github.com/evertonmdev/evertonmdev/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/evertonmdev/evertonmdev/blob/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+
